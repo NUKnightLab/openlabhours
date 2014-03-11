@@ -1,0 +1,30 @@
+body {
+	font-family: Helvetica;
+	font-weight: 100;
+}
+
+.container {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 60px;
+	font-family: Helvetica;
+}
+
+.container > ul {
+	list-style-type: none;
+	font-size: 20px;
+	margin: 0 auto;
+	max-width: 300px;
+}
+
+.container > ul li {
+	margin-bottom: 20px;
+	border-bottom: 1px solid #414141;
+}
+
+.done {
+	text-decoration: line-through;
+}
