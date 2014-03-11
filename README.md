@@ -1,6 +1,3 @@
-Northwestern University Knight Lab
-==================================
-
 # Open Lab Hours
 
 A place to keep track of workshop ideas for our weekly hangout
