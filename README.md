@@ -4,6 +4,7 @@ A place to keep track of workshop ideas for our weekly hangout
 
 Submit ideas for workshops by forking this repo and making a pull request. Our moderators will keep the github page updated.
 
+http://nuknightlab.github.io/openlabhours
 
 ###### How to make a pull request?
 1. Go to https://github.com/NUKnightLab/openlabhours
