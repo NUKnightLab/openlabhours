@@ -27,4 +27,11 @@ h1 {
 
 .done {
 	text-decoration: line-through;
+	margin-bottom: -5px;
+}
+
+.date {
+	font-size: 11px;
+	color: #8F8F8F;
+	margin-bottom: 0;
 }
